@@ -1,3 +1,4 @@
 [submodule "TestSubmoduleRepository"]
 	path = TestSubmoduleRepository
 	url = https://github.com/peles111/TestSubmoduleRepository.git
+	branch = main
